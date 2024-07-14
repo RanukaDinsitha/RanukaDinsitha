@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @RanukaDinsitha.
-- 👀 I’m interested in Angular and Electron.
-- 🌱 I’m currently learning Angular.
-- 💞️ I’m looking to collaborate on JavaScript. 
-- 📫 How to reach me im in NZ!
+- 👋 Hi, I’m Ranuka Dinsitha.
+- 👀 I’m interested in Tailwind and Astro.
+- 🌱 I’m currently learning C++.
+- 💞️ I’m looking to collaborate on TypeScript & Java. 
+- 📫 How to reach me? <a href="mailto:ranuka.imiyamohottige@gmail.com"> Click on me!</a>
 
 
